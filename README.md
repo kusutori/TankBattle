@@ -2,7 +2,7 @@
 
 ## 参考
 - 看着B站教程制作的坦克大战小游戏
-- 参考B站[SiKi老师]([SiKi老师的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/686584552))的C#教程，其中的[C#编程-第三季-坦克大战](https://www.bilibili.com/video/BV1jr4y1Q7kG)
+- 参考B站[SiKi老师](https://space.bilibili.com/686584552)的C#教程，其中的[C#编程-第三季-坦克大战](https://www.bilibili.com/video/BV1jr4y1Q7kG)
 
 ## 介绍
 
