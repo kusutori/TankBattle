@@ -1,0 +1,17 @@
+D:\code\坦克大战\坦克大战\bin\Release\net6.0-windows\坦克大战.exe
+D:\code\坦克大战\坦克大战\bin\Release\net6.0-windows\坦克大战.deps.json
+D:\code\坦克大战\坦克大战\bin\Release\net6.0-windows\坦克大战.runtimeconfig.json
+D:\code\坦克大战\坦克大战\bin\Release\net6.0-windows\坦克大战.dll
+D:\code\坦克大战\坦克大战\bin\Release\net6.0-windows\坦克大战.pdb
+D:\code\坦克大战\坦克大战\obj\Release\net6.0-windows\坦克大战.csproj.AssemblyReference.cache
+D:\code\坦克大战\坦克大战\obj\Release\net6.0-windows\坦克大战.Form1.resources
+D:\code\坦克大战\坦克大战\obj\Release\net6.0-windows\坦克大战.csproj.GenerateResource.cache
+D:\code\坦克大战\坦克大战\obj\Release\net6.0-windows\坦克大战.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\坦克大战\坦克大战\obj\Release\net6.0-windows\坦克大战.AssemblyInfoInputs.cache
+D:\code\坦克大战\坦克大战\obj\Release\net6.0-windows\坦克大战.AssemblyInfo.cs
+D:\code\坦克大战\坦克大战\obj\Release\net6.0-windows\坦克大战.csproj.CoreCompileInputs.cache
+D:\code\坦克大战\坦克大战\obj\Release\net6.0-windows\坦克大战.dll
+D:\code\坦克大战\坦克大战\obj\Release\net6.0-windows\refint\坦克大战.dll
+D:\code\坦克大战\坦克大战\obj\Release\net6.0-windows\坦克大战.pdb
+D:\code\坦克大战\坦克大战\obj\Release\net6.0-windows\坦克大战.genruntimeconfig.cache
+D:\code\坦克大战\坦克大战\obj\Release\net6.0-windows\ref\坦克大战.dll

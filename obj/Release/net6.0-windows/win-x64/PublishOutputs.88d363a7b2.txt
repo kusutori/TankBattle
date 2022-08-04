@@ -1,0 +1,5 @@
+D:\code\坦克大战\坦克大战\bin\Release\net6.0-windows\publish\win-x64\坦克大战.exe
+D:\code\坦克大战\坦克大战\bin\Release\net6.0-windows\publish\win-x64\坦克大战.dll
+D:\code\坦克大战\坦克大战\bin\Release\net6.0-windows\publish\win-x64\坦克大战.deps.json
+D:\code\坦克大战\坦克大战\bin\Release\net6.0-windows\publish\win-x64\坦克大战.runtimeconfig.json
+D:\code\坦克大战\坦克大战\bin\Release\net6.0-windows\publish\win-x64\坦克大战.pdb
